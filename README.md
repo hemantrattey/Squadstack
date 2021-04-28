@@ -61,7 +61,7 @@ Thus, the first step in my analysis was to count the number of follow ups done b
 
 ![Follow ups](https://github.com/hemantrattey/Squadstack/blob/master/viz/Number%20of%20Follow%20ups%20per%20Agent.png)
 
-We can see that Agent 4 made the most number of follow ups. This also comes out to be around 22% of the total follow ups. On the other hand, Agent 0 made the least number of follow ups which was arounf 0.17%. 
+We can see that Agent 4 made the most number of follow ups. This also comes out to be around 22% of the total follow ups. On the other hand, Agent 0 made the least number of follow ups which was around 0.17%. 
 
 ![perc_follow_ups](https://github.com/hemantrattey/Squadstack/blob/master/assets/perc_follow_ups.JPG)
 
@@ -90,13 +90,13 @@ If the median delay is decreased then surely the potential customers would be sa
 
 Additionally, the follow up type is a good indicator of performance as leads are more likely to reply to a call immediately rather than an email or a text message. Thus agents calling up their leads might have better success rate than the others. 
 
-![follow_up_type](https://github.com/hemantrattey/Squadstack/blob/master/assets/median_delay.JPG)
+![follow_up_type](https://github.com/hemantrattey/Squadstack/blob/master/viz/Distribution%20of%20Followup%20Type%20per%20Agent.png)
 
 It is clear that Agent 4 spends a lot of time calling their leads and texting them whereas Agent 5 relies on waiting for replies on their mails. 
 
 Finally, if an agent receives a call from their lead, this means that the potential customer is interested in doing business with the brokerage firm and this shows a positive sign in agents performance. 
 
-![incoming](https://github.com/hemantrattey/Squadstack/blob/master/assets/median_delay.JPG)
+![incoming](https://github.com/hemantrattey/Squadstack/blob/master/viz/Total%20number%20of%20times%20an%20Agent%20gets%20a%20call%20from%20a%20lead.png)
 
 Agent 7 gets a lot of calls from their leads and it might show that he is good at his job and converting leads to customers. On the other hand, agent 3 hardly receives any calls from their leads. 
 
