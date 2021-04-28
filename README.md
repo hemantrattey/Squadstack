@@ -31,7 +31,7 @@ They do this by regularly following-up with them using calls, text messages or e
 
 The dataset provided comes from a CRM platform used by the brokerage firm. The dataset has a CSV file format. The following is a screenshot of data along with the definitions of each column in the dataset :
 
-![Example Dataset](assets\Example_dataset.JPG)
+![Example Dataset](https://github.com/hemantrattey/Squadstack/blob/master/assets/Example_dataset.JPG)
 
 - ***id:*** Unique followup identifier
 - ***followup_date:*** Timestamp when the followup happened
